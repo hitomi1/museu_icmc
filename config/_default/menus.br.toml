@@ -1,51 +1,51 @@
 [[main]]
-  identifier = "about"
-  name = "About"
-  url = "about"
+  identifier = "Sobre"
+  name = "Sobre"
+  url = "Sobre"
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
+  identifier = "Arquivos"
+  name = "Arquivos"
+  url = "Arquivos"
   weight = 2
 
 [[main]]
-  identifier = "presentation"
+  identifier = "Aprensentação"
   name = "Pt"
-  url = "presentation"
+  url = "Aprensentação"
   weight = 3
 
 [[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
+  identifier = "Galeria"
+  name = "Galeria"
+  url = "Galeria"
   weight = 4
     
 [[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
+  parent = "Galeria"
+  name = "Imagens"
+  url = "Galeria/Imagens"
 
 [[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+  parent = "Galeria"
+  name = "Fotos"
+  url = "Galeria/Fotos"
 
 [[main]]
-  identifier = "posts"
+  identifier = "Posts"
   name = "Posts"
-  url = "posts"
+  url = "Posts"
   weight = 5
 
 [[main]]
-  identifier = "showcase"
-  name = "Showcase"
-  url = "showcase"
+  identifier = "SHOWCASE"
+  name = "SHOWCASE"
+  url = "SHOWCASE"
   weight = 6
 
 [[main]]
-  identifier = "publication"
-  name = "Pub"
-  url = "publication"
+  identifier = "Publicações"
+  name = "Publicações"
+  url = "Publicações"
   weight = 7

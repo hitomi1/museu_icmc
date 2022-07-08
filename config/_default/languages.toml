@@ -1,13 +1,13 @@
-[br]
-  title = "Hugo Zzo Theme"
+[pt]
+  title = "Museu do ICMC"
   languageName = "Português"
-  weight = 2
+  weight = 1
   languagedir = "ltr"
   contentdir = "content/br"
   
 [en]
-  title = "Hugo Zzo Theme"
+  title = "ICMC Museu"
   languageName = "English"
-  weight = 1
+  weight = 2
   languagedir = "ltr"
   contentdir = "content/en"

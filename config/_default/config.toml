@@ -1,15 +1,15 @@
 baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+title = "Museu do ICMC"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 summaryLength = 70
 buildFuture = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, Todos os direitos reservados"
 timeout = 10000
 enableEmoji = true
 paginate = 13

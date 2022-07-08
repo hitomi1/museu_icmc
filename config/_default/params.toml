@@ -134,56 +134,27 @@ commento = false
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
 
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
-
-# Isso: https://posativ.org/isso/
-[isso]
-  enable = false
-  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
   email = "mailto:gustavohitomi@usp.br"
-  phone = ""
+  phone = "16 936180431"
   facebook = "http://facebook.com/gustavohitomi"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  twitter = "http://twitter.com/gustavohitomi"
+  github = "https://github.com/hitomi1/museu_icmc"
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://instagram/gstvhtm"
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://linkedin.com/in/gustavohitomi"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
   steam = ""
-  weibo = ""
-  douban = ""
   csdn = ""
   gitlab = ""
   mastodon = ""
-  jianshu = ""
-  zhihu = ""
   signal = ""
   whatsapp = ""
   matrix = ""
@@ -194,8 +165,6 @@ commento = false
 
 [donationOptions]
   enable = false
-  alipay = "" 
-  wechat = ""
   paypal = ""
   patreon = ""
 
